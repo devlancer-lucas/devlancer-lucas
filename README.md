@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1587F7&background=2DFF7200&center=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&vCenter=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&repeat=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&width=560&height=80&lines=Hi%2C+My+name+is+Lucas.+I+am+a+developer.+;Code+with+me+let's+innovate+together!)](https://git.io/typing-svg)
-
 <h1 align="center">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
  Hi, Welcome to my GitHub profile 
