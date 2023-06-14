@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-`<img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />`
+<img alt="full stack developer" src="./Screenshot_2.png" width="100%" />
 
 ### 👨🏽‍💻 &nbsp;About Me
 
@@ -18,7 +18,7 @@ Especially, Implemented attractive, user-friendly and responsive front-end proje
 Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
 
 Ready for an opportunity to use my skills to grow your business and revenue exponentially.
-Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. `<br />`Thank you for your consideration.
+Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
 
 </p>
 
