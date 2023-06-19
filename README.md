@@ -79,5 +79,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   </tr>
  </table/>
 </div/>
-<img style="margin-left: auto; margin-right: auto" src="https://komarev.com/ghpvc/?username=pelenium&style=flat-square&color=blue" alt=""/>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=pelenium&style=flat-square&color=blue" alt=""/>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
