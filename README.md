@@ -80,6 +80,11 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  </table/>
 </div/>
 <div align="center">
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pelenium&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelenium&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pelenium&theme=dark&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  <img src="https://komarev.com/ghpvc/?username=pelenium&style=flat-square&color=blue" alt=""/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
