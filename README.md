@@ -80,7 +80,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  </table/>
 </div/>
 <div align="center">
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pelenium&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pelenium&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelenium&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
