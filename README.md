@@ -3,15 +3,16 @@
  Hi, Welcome to my GitHub profile 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p align="center">
-  <a href="https://github.com/AtosGuru"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
 
-<img alt="full stack developer" src="./Screenshot_2.png" width="100%" />
+<img alt="full stack developer" src="https://github.com/naruhitokaide/naruhitokaide/blob/main/Screenshot_2.png" width="100%" />
+
+<p align="center">
+  <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 ### 👨🏽‍💻 &nbsp;About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
 
 <p>
 Rich experience designing, developing, and implementing web applications.
@@ -26,12 +27,12 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 </p>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
