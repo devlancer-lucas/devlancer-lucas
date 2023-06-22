@@ -6,6 +6,11 @@
 
 <img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
 
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
+ <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/github/followers/devlancer-lucas?style=social">
+</div>
 <p align="center">
   <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -83,11 +88,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   </tr>
  </table/>
 </div/>
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
- <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/github/followers/devlancer-lucas?style=social">
-</div>
 <!-- <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
  <img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
