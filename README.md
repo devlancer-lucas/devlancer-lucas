@@ -3,6 +3,9 @@
  Hi, Welcome to my GitHub profile 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<p align="center">
+  <a href="https://github.com/AtosGuru"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <img alt="full stack developer" src="./Screenshot_2.png" width="100%" />
 
@@ -80,6 +83,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  </table/>
 </div/>
 <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
