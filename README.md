@@ -87,5 +87,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/github/followers/devlancer-lucas?style=social">
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
+ <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
