@@ -79,7 +79,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   </tr>
  </table/>
 </div/>
-<div style="margin-top: 30px">
+<div style="margin-top: 300px">
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" alt="AtosGuru" />
 </div>
 <div align="center">
