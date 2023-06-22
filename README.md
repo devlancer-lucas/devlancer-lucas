@@ -4,7 +4,7 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<img alt="full stack developer" src="https://github.com/naruhitokaide/naruhitokaide/blob/main/Screenshot_2.png" width="100%" />
+<img alt="full stack developer" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/Screenshot_2.png" width="100%" />
 
 <p align="center">
   <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
