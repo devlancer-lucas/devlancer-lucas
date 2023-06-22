@@ -79,8 +79,10 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   </tr>
  </table/>
 </div/>
+<div style="margin-top: 30px">
+ <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" alt="AtosGuru" />
+</div>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="AtosGuru" />
- <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" alt="AtosGuru" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
