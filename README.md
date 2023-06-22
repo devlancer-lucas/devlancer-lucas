@@ -80,6 +80,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  </table/>
 </div/>
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=pelenium&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&style=flat-square&color=blue" alt=""/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
