@@ -109,7 +109,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/devlancer-lucas"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=devlancer-lucas&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
 <a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
