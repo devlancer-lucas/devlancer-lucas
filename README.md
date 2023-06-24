@@ -11,9 +11,15 @@
  <a href="https://github.com/devlancer-lucas?tab=repositories&sort=stargazers">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devlancer-lucas"/>
  </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://stars.github.com/">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
- </a> 
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+ </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/devlancer-lucas?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/devlancer-lucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </>
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
@@ -28,6 +34,7 @@
   <a href="https://github.com/devlancer-lucas"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+<div align="left">
 ### 👨🏽‍💻 &nbsp;About Me
 
 <img align="right" alt="Coding" width="400" src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/coding.gif?raw=true">
@@ -43,6 +50,7 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
 
 </p>
+</div>
 
 <div align="center">
  <a href="https://github.com/devlancer-lucas?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devlancer-lucas&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
