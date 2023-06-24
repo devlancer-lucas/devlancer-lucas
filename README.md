@@ -109,7 +109,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=3&row=2"  width="100%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
