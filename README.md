@@ -32,10 +32,6 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 
 </p>
 
-<p align="center">
-<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
-</p>
-
 <div align="center">
  <a href="https://github.com/devlancer-lucas?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devlancer-lucas&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
  <a href="https://github.com/devlancer-lucas?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devlancer-lucas&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
@@ -48,6 +44,10 @@ Please feel free to explore my GitHub repositories and contact me with any quest
     </a>
 </p>
 <!-- activity graph heroku-app end -->
+
+<p align="center">
+<a href="https://github.com/devlancer-lucas?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+</p>
 
 <div align="center">
   <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/divider2.png" alt="divider"/>
@@ -107,10 +107,10 @@ Please feel free to explore my GitHub repositories and contact me with any quest
  </table/>
 </div/>
     
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
  <img src="https://github-profile-trophy.vercel.app/?username=devlancer-lucas&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
-</div>
+</div> -->
 
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
