@@ -12,12 +12,12 @@
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/devlancer-lucas"/>
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://gist.github.com/devlancer-lucas"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+ <a href="https://gist.github.com/devlancer-lucas"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Visitor's Count" /></a>
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/devlancer-lucas?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/devlancer-lucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </>
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
- <img src="https://profile-counter.glitch.me/{devlancer-lucas}/count.svg" alt="ventureful :: Visitor's Count" height="0px" />
+ <img src="https://profile-counter.glitch.me/{devlancer-lucas}/count.svg" alt="Visitor's Count" height="0px" />
 <!-- <div align="center">
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
