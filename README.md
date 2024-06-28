@@ -17,7 +17,7 @@
  <a href="https://github.com/devlancer-lucas?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/devlancer-lucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </>
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
- <img src="https://profile-counter.glitch.me/{devlancer-lucas}/count.svg" alt="Visitor's Count" height="0px" />
+ <img src="https://profile-counter.glitch.me/{devlancer-lucas}/count.svg" alt="Visitor's Count" />
 <!-- <div align="center">
  <img src="https://komarev.com/ghpvc/?username=devlancer-lucas&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="Lucas" />
  <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas" />&nbsp;&nbsp;&nbsp;&nbsp;
